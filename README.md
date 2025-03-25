@@ -13,6 +13,19 @@
 
 - 📫 How to reach me **tanmaytanvi1234@gmail.com**
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 1.5rem; width: 100vw; padding: 1rem;">
+    <img src="https://colaninfotech.com/wp-content/uploads/2021/09/expressjs.gif" alt="Express.js Logo" 
+        style="width: 100px; height: auto;">
+    <img src="https://miro.medium.com/v2/resize:fit:960/1*CtR3tY_5EKkIUolOQKYKEg.gif" alt="Medium Logo" 
+        style="width: 100px; height: auto;">
+    <img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952exeuiualqrlj47k9l11bmbl18zord464sf9pa2nt&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+        alt="Giphy Logo" style="width: 100px; height: auto;">
+</div>
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmaybhos27324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmaybhos27324" height="30" width="40" /></a>
