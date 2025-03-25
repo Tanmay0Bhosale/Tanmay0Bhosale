@@ -16,7 +16,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; width: 100vw; padding: 1rem;">
     <img src="https://colaninfotech.com/wp-content/uploads/2021/09/expressjs.gif" alt="Express.js Logo" 
         style="width: 150px; height: auto;">
-    <img src="https://miro.medium.com/v2/resize:fit:960/1*CtR3tY_5EKkIUolOQKYKEg.gif" alt="Medium Logo" 
+    <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952chdoc3nzz40rd4fyb4tlrhtarfp5j3zwrs93xqkz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Medium Logo" 
         style="width: 150px; height: auto;">
     <img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952exeuiualqrlj47k9l11bmbl18zord464sf9pa2nt&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
         alt="Giphy Logo" style="width: 150px; height: auto;">
